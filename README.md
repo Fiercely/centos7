@@ -1,3 +1,5 @@
+[![Docker Stars](https://img.shields.io/docker/stars/fiercely/centos7.svg)](https://hub.docker.com/r/fiercely/centos7/)[![Docker Stars](https://img.shields.io/docker/pulls/fiercely/centos7.svg)](https://hub.docker.com/r/fiercely/centos7/)
+
 ## Centos Systemd enabled image to be used with Molecule for instance
 
 This repo contains an image in Centos7 with systemd enabled in order to be used with molecule
